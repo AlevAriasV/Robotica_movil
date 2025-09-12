@@ -1,1 +1,7 @@
 Informe
+
+Observamos que las mediciones del sonar no siempre son confiables, dado que tuvimos que hacer varías tomas de cada medida con tal de obtener
+lecturas con menos desviaciones.
+También un factor a tomar en cuenta qué sonar usemos, porque usando 2 sonares pudimos observar una gran diferencia en las lecturas, en uno 
+las lecturas eran raras sin ninguna razón, tenía saltos muy grandes entre lecturas, con el 2do sonar las lecturas fueron más consistentes y 
+usamos esas.
